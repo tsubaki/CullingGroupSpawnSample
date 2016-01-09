@@ -1,0 +1,11 @@
+/content/51515
+Assets/Standard Assets/Effects/51515\CinematicEffects(ALPHA)\AntiAliasing\AntiAliasing.cs,fdc35e0180670ab4e8d2f9439137791f
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\Common\ImageEffectHelper.cs,ab6a3f50deeee984c88794eeeb901226
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\Common\RenderTexureUtility.cs,054e694bae00c374a97c2bc495fca66b
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\DepthOfField\DepthOfField.cs,8a338d679868f45439ea43c7ae035e36
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\ScreenSpaceReflection\ScreenSpaceReflection.cs,da3ff4a1bef2e8d47a1dfb734aa54de1
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\ScreenSpaceReflection\Shaders\ScreenSpaceReflection.shader,7e2fcc83af19e744787647ec0ac5d42c
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\TonemappingColorGrading\TonemappingColorGrading.cs,58a7625302996c94ba07a8ca3351f668
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\Histogram.compute,5ee4b74fa28a3e74e89423dd49705fc5
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGrading.shader,964b34bbab7f5e64fa40f37eaccac1ad
+Assets/Standard Assets/Effects/51515\CinematicEffects(BETA)\TonemappingColorGrading\Shaders\TonemappingColorGradingHistogram.shader,9a8e838691462194482a43a02e424876
